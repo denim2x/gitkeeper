@@ -1,0 +1,27 @@
+{
+  "name": "gitkeeper",
+  "version": "0.1.0-rc.2",
+  "description": "Gatekeeping by .gitignore rules",
+  "license": "MIT",
+
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [
+    "ignore",
+    "gitignore",
+    "exclude",
+    "exclusion",
+    "dot-ignore",
+    ".ignore"
+  ],
+
+  "main": "lib/gitkeeper",
+
+  "author": {
+    "name": "denim2x",
+    "email": "denim2x@cyberdude.com",
+    "url": "http://denim2x.github.io"
+  },
+  "repository": "https://github.com/denim2x/gitkeeper"
+}
